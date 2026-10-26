@@ -147,7 +147,7 @@ function App() {
         />
         <footer className="mt-12">
           <a
-            href="https://github.com/pangolingo/dither-machine-web"
+            href="https://github.com/EnderNon/Dither-Machine-Web-build"
             className="block underline font-bold"
           >
             <svg
